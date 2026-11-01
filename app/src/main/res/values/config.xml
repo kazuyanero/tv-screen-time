@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Minutes of app time per day before the lock (changeable in the app behind the PIN). -->
+    <integer name="default_limit">30</integer>
+    <!-- Apps whose time is free and which never show the lock: the home screen, Live TV/HDMI (com.tcl.tv),
+         the input switcher, Prayer Times and this app. Everything else counts. -->
+    <string-array name="free_apps" translatable="false">
+        <item>com.gathin.tvhome</item>
+        <item>com.tcl.tv</item>
+        <item>com.tcl.tvinput</item>
+        <item>com.tcl.suspension</item>
+        <item>com.majnioui.tv.prayer</item>
+        <item>local.tv.screentime</item>
+        <item>com.android.systemui</item>
+        <item>android</item>
+    </string-array>
+</resources>

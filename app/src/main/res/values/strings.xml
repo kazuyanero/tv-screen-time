@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Time</string>
+    <string name="channel">Screen time</string>
+    <string name="notice">%1$d of %2$d minutes used today</string>
+    <string name="locked_title">Screen time is up</string>
+    <string name="locked_body">Today\'s %1$d minutes of apps are used. Home and Live TV still work. A parent can enter the PIN.</string>
+    <string name="enter_pin">Enter PIN</string>
+    <string name="wrong_pin">Wrong PIN</string>
+    <string name="how_long">How much more time?</string>
+    <string name="plus_15">+15 min</string>
+    <string name="plus_30">+30 min</string>
+    <string name="plus_60">+1 hour</string>
+    <string name="rest_of_day">Rest of today</string>
+    <plurals name="warn">
+        <item quantity="one">%1$d minute of screen time left</item>
+        <item quantity="other">%1$d minutes of screen time left</item>
+    </plurals>
+    <string name="settings_title">Screen Time</string>
+    <string name="create_pin">Create a 4-digit parent PIN</string>
+    <string name="confirm_pin">Enter the new PIN again</string>
+    <string name="pin_mismatch">The PINs did not match. Try again.</string>
+    <string name="limit_row">Daily limit: %1$d min</string>
+    <string name="used_row">Used today: %1$d min</string>
+    <string name="extra_row">Extra time until %1$s</string>
+    <string name="reset_today">Reset today\'s time</string>
+    <string name="change_pin">Change PIN</string>
+    <string name="settings_hint">Left / Right change the limit. Counts time in apps only: Home, Live TV and HDMI are free.</string>
+    <string name="delete">Del</string>
+</resources>

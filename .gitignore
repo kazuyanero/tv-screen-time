@@ -1,0 +1,21 @@
+# Gradle and Android Studio
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Built apps and signing keys: never commit these
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

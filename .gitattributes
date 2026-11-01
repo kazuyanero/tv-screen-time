@@ -1,0 +1,7 @@
+# Keep the Unix wrapper script runnable when the repo is cloned on Linux or macOS.
+gradlew text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.jar binary
+*.png binary

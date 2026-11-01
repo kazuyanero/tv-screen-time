@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Waktu Layar</string>
+    <string name="channel">Waktu layar</string>
+    <string name="notice">%1$d dari %2$d menit terpakai hari ini</string>
+    <string name="locked_title">Waktu layar habis</string>
+    <string name="locked_body">Jatah %1$d menit aplikasi hari ini sudah habis. Beranda dan TV Live tetap bisa dipakai. Orang tua bisa memasukkan PIN.</string>
+    <string name="enter_pin">Masukkan PIN</string>
+    <string name="wrong_pin">PIN salah</string>
+    <string name="how_long">Tambah waktu berapa lama?</string>
+    <string name="plus_15">+15 menit</string>
+    <string name="plus_30">+30 menit</string>
+    <string name="plus_60">+1 jam</string>
+    <string name="rest_of_day">Sisa hari ini</string>
+    <plurals name="warn">
+        <item quantity="other">Sisa waktu layar %1$d menit</item>
+    </plurals>
+    <string name="settings_title">Waktu Layar</string>
+    <string name="create_pin">Buat PIN orang tua 4 angka</string>
+    <string name="confirm_pin">Masukkan PIN baru sekali lagi</string>
+    <string name="pin_mismatch">PIN tidak sama. Coba lagi.</string>
+    <string name="limit_row">Batas harian: %1$d menit</string>
+    <string name="used_row">Terpakai hari ini: %1$d menit</string>
+    <string name="extra_row">Waktu tambahan sampai %1$s</string>
+    <string name="reset_today">Atur ulang waktu hari ini</string>
+    <string name="change_pin">Ganti PIN</string>
+    <string name="settings_hint">Kiri / Kanan mengubah batas. Hanya waktu di aplikasi yang dihitung: Beranda, TV Live, dan HDMI gratis.</string>
+    <string name="delete">Hapus</string>
+</resources>
